@@ -2,7 +2,7 @@
   "name": "starter-crud-auth-api-express",
   "version": "1.0.0",
   "engines": {
-    "node": "14.x"
+    "node": ">=18.0.0"
   },
   "scripts": {
     "start": "nodemon server.js",
@@ -40,3 +40,4 @@
   },
   "homepage": "https://github.com/idurar/starter-antd-admin-crud-auth-mern#readme"
 }
+
